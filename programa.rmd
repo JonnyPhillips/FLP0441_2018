@@ -1,0 +1,40 @@
+---
+output: html_document
+---
+
+<h2 style="text-align: center;" markdown="1"> Programa das Aulas </h2>  
+
+<br><br>
+
+Data       | Tema      | Tópico       | Estudos de caso        
+-----------|-----------|--------------|------------------------
+23 de augusto | Paz    | Conflito e o Estado | Sudão do Sul, Europa no Renascimento
+30 de augusto	| Paz	   | Conflito Étnico e Nacionalista	| Ruanda, Jugoslávia
+6 de setembro | Não temos aula | | 
+13 de setembro|	Paz	   | Segurança pública	| Estados Unidos, Colômbia, Brasil
+20 de setembro| Democracia |	Política autoritária |	México, China
+27 de setembro|	Democracia |	Explicando a democracia	| Índia, Espanha
+4 de outobro  |	Democracia |	Transições para a democracia |	Primavera Árabe, Brasil
+11 de outobro |	Democracia |	Variedades de democracia e o Colapso das democracias | Nigéria, Chile, Rússia
+18 de outobro |	Riqueza e Igualdade |	Abordagens clássicas para o desenvolvimento	| Estados Unidos, Nigéria
+25 de outobro |	Riqueza e Igualdade |	Abordagens institucionais para o desenvolvimento |	Polônia, Coreia do Sul, China
+1 de novembro |	Riqueza e Igualdade |	Desigualdade e redistribuição |	Suécia, Brasil
+8 de novembro |	Riqueza e Igualdade |	Estado de bem-estar e política social	| Alemanha, Estados Unidos
+15 de novembro | Não temos aula | |
+22 de novembro | Governança	| Instituições Executivas e Legislativas | Estados Unidos, Grã Bretanha, França
+29 de novembro | Governança	| Sistemas Eleitoral e Partidário	| Grã Bretanha, Itália
+6 de dezembro  |	Governança |	Construindo Instituições | Nova Zelândia, Japão
+13 de dezembro |	Governança |	Sociedade civil e Grupos de interesse |	Estados Unidos, Bolívia
+
+
+
+
+
+
+
+
+
+
+
+
+

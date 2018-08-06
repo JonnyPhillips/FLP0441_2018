@@ -6,6 +6,8 @@ navbar:
     - text: "Currículo"
       icon: fa-home
       href: index.html
+    - text: "Programa"
+      href: programa.html
     - text: "Aulas"
       menu:
       - text: "Aula 1 - Paz: Conflito e o Estado"
