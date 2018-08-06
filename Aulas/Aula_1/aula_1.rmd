@@ -11,8 +11,8 @@ output: html_document
 
 ### Leitura
 
-- E. E. Evans-Pritchard (1940), “Os Nuer: uma descrição do modo de subsistência e das instituições políticas de um povo nilota”, traduzido por Ana M. Goldberger Coelho, Capítulo 4 (O Sistema Político), de secão IV a VII (pp. 161-173).
+- [E. E. Evans-Pritchard (1940), “Os Nuer: uma descrição do modo de subsistência e das instituições políticas de um povo nilota”, traduzido por Ana M. Goldberger Coelho, Capítulo 4 (O Sistema Político), de secão IV a VII (pp. 161-173).](https://jonnyphillips.github.io/FLP0441_2018/Aulas/Aula_1/Evans Pritchard Portugues.pdf)
 
-- Tilly, Charles (1990), “Coerção, Capital e Estados Europeus”, pp. 123 – 133 e 143-147.
+- [Tilly, Charles (1990), “Coerção, Capital e Estados Europeus”, pp. 123 – 133 e 143-147.](https://jonnyphillips.github.io/FLP0441_2018/Aulas/Aula_1/Tilly Portugues.pdf)
 
 

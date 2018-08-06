@@ -11,6 +11,6 @@ output: html_document
 
 ### Leitura
 
-Gourevitch (1999), “Gostaríamos de Informá-lo de que Amanhã Seremos Mortos com Nossas Famílias”. Capítulos 1, 4, 7, e pp. 107-115, 172-175 (Versão Portuguesa).
+- [Gourevitch (1999), “Gostaríamos de Informá-lo de que Amanhã Seremos Mortos com Nossas Famílias”. Capítulos 1, 4, 7, e pp. 107-115, 172-175 (Versão Portuguesa)](https://jonnyphillips.github.io/FLP0441_2018/Aulas/Aula_2/Gourevitch Portugues.pdf)
 
-Gagnon, V.P. (1994), “Nacionalismo Étnico e Conflito Internacional: o Caso da Sérvia”, pp. 140-164 (Versão Portuguesa traduzido (imperfeitamente...) por Google) ou a versão original em Inglês, se preferir.
+- [Gagnon, V.P. (1994), “Nacionalismo Étnico e Conflito Internacional: o Caso da Sérvia”, pp. 140-164 (Versão Portuguesa traduzido (imperfeitamente...) por Google) ou a versão original em Inglês, se preferir.](https://jonnyphillips.github.io/FLP0441_2018/Aulas/Aula_2/Gagnon Portugues.pdf)
