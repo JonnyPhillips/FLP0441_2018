@@ -1,0 +1,16 @@
+name: "FLP0441 - Tópicos de Política Comparada"
+output_dir: "."
+navbar:
+  title: "FLP0441 - Tópicos de Política Comparada"
+  left:
+    - text: "Currículo"
+      icon: fa-home
+      href: index.html
+
+output:
+  html_document:
+    theme: journal
+    css: styles.css
+    highlight: tango
+    lib_dir: site_libs
+    self_contained: no

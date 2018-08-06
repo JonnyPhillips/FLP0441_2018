@@ -1,0 +1,52 @@
+---
+output: html_document
+---
+
+<h2 style="text-align: center;" markdown="1"> FLP0441 - Tópicos de Política Comparada </h2>  
+
+<br><br>
+
+**Professor Responsável:** Jonathan Phillips
+
+**Horários:** Quinta-feiras, 14h-18h, de 23 augusto a 13 dezembro
+
+## Objetivos
+
+Quão estável é o controle dos oligarcas na Rússia? Como a violência pode ser reduzida na Somália? Por que o estado de bem-estar social alemão é mais abrangente do que o estadunidense? O Partido Comunista da China manterá o seu controle político enquanto o país continuar o seu crescimento econômico? A queda nos preços do petróleo trouxe melhorias para a governança na Nigéria? A Turquia corre o risco de se tornar uma ditadura? Por que a Nova Zelândia e o Japão mudaram seus sistemas eleitorais? 
+
+Esta disciplina tem como objetivo oferecer aos alunos o conhecimento, as ferramentas e a confiança necessárias para aplicar as principais teorias da ciência política ao estudo destas grandes questões contemporâneas relevantes. No final do semestre, os alunos serão capazes de responder quatro perguntas fundamentais da política comparada:
+
+1. Por que algumas sociedades são mais pacíficas que outras?
+2. Por que algumas sociedades são mais democráticas que outras?
+3. Por que algumas sociedades são mais ricas e mais igualitárias que outras?
+4. Por que algumas sociedades são governadas de maneira tão diferente de outras?
+
+**Disciplina requisito ou indicação de conjunto:** Política IV (FLP0204) ou equivalente
+
+## Programa Resumido
+
+O ensino nesta disciplina será estruturado em torno de estudos de casos. Os alunos mergulharão na política de países diversas, incluindo China, Nigéria, Estados Unidos, México, Alemanha e Rússia, de modo a formular explicações plausíveis para as diferenças observadas.
+Os alunos adquirirão conhecimento aprofundado sobre a história, geografia, instituições e padrões de competição em cada país. Aprenderão a construir diversos argumentos para explicar como a política afeta cada país, bem como a avaliar a relevância das teorias principais da ciência política, incluindo teorias sobre a modernização, a democratização liderada por elites, o papel das instituições, a ação coletiva de protestos, e o congelamento dos sistemas partidários. Cumulativamente, a disciplina também dotará os alunos de conhecimento suficiente sobre vários casos que lhes permitam fazer análises e críticas comparativas, enquadrando seus conhecimentos e explicações para a política brasileira sob uma nova luz.
+A estrutura do curso gira em torno de quatro dos principais tópicos da ciência política:
+O primeiro tópico, “paz”, inclui casos como o da Sudão do Sul, Jugoslávia, Ruanda, Líbano e o da Europa no Renascimento para estudar processos de state-building, violência étnica, modernização e compartilhamento de poder.
+O segundo tópico, "democracia", inclui casos como o da Rússia, Índia, México, Nigéria, Chile e a Primavera Árabe para explicar por que alguns países se tornam e permanecem democráticos, e outros se tornam e permanecem autoritários.
+O terceiro tópico, "riqueza e igualdade", inclui casos como o da Polônia, China, República Democrática do Congo, Coreia do Sul, EUA, e Alemanha para explicar como os regimes políticos afetam o crescimento econômico, o nível de redistribuição, e a constituição dos estados de bem-estar social.
+O quarto tópico, “governança”, inclui casos como o da França, Grã Bretanha, Itália, Nova Zelândia e Japão para explorar mais profundamente por que diferentes países são governados de formas diferentes, com diferentes instituições, sistemas partidários, mobilização social e práticas de participação e corrupção.
+
+## Métodos utilizados
+
+A disciplina estará baseada em aulas expositivas e outras atividades em aula como discussões em grupo, pesquisa em grupo sobre os estudos de caso e jogos interativos. Vamos também aproveitar de interação virtual em Moodle ou outra plataforma parecida. 
+
+## Atividades discentes
+
+Os alunos serão avaliados com base em breves resumos semanais das leituras, atividades em sala de aula, uma prova final e a participação nas discussões semanais. 
+Os resumos semanais devem resumir em 400 palavras ou menos o argumento principal das leituras da semana, e serão entregues 24 horas antes da aula. As atividades em sala de aula incluirão tarefas individuais e em grupo para definir conceitos básicos, sugerir países que ilustram processos políticas e identificar países no mapa mundial. 
+A prova final terá duração de duas horas, e tratará de todo o material abordado na disciplina. O aluno responderá a perguntas sobre conceitos essenciais, e escreverá dois ensaios curtos (30 minutos cada um) que argumentam lados opostos de uma questão central discutida ao longo do semestre.
+
+## Critérios de avaliação de aprendizagem:
+
+A nota final (ponderada) será calculada a partir das notas obtidas nas atividades obrigatórias da disciplina: uma prova escrita (no final do semestre), e das notas obtidas nas atividades durante e fora de aula: resumos semanais, exercícios, e participação em sala de aula. As provas serão individuais, sem consulta de livros ou anotações. Entende-se por atividade obrigatória aquela cuja não-realização por parte do aluno implicará em reprovação automática e a impossibilidade de realizar recuperação, independentemente das notas obtidas nas demais atividades.
+
+## Normas de recuperação (critérios de aprovação e épocas de realização das provas ou trabalhos):
+
+Uma prova escrita sobre todo o conteúdo da disciplina. Sem prejuízo dos critérios estabelecidos, os alunos terão direito a realizar a prova de recuperação desde que tenham cumprido as atividades obrigatórias mencionadas no item anterior.
