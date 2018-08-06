@@ -6,6 +6,12 @@ navbar:
     - text: "Currículo"
       icon: fa-home
       href: index.html
+    - text: "Aulas"
+      menu:
+      - text: "Aula 1 - Paz: Conflito e o Estado"
+        href: Aulas/Aula_1/aula_1.html
+      - text: "Aula 2 - Paz: Conflito Étnico e Nacionalista"
+        href: Aulas/Aula_2/aula_2.html
 
 output:
   html_document:

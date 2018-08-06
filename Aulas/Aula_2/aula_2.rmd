@@ -1,0 +1,16 @@
+---
+output: html_document
+---
+
+<h2 style="text-align: center;" markdown="1"> Aula 2 - Paz: Conflito Étnico e Nacionalista </h2>  
+
+### Estudos de Caso
+
+- Ruanda
+- Jugoslávia
+
+### Leitura
+
+Gourevitch (1999), “Gostaríamos de Informá-lo de que Amanhã Seremos Mortos com Nossas Famílias”. Capítulos 1, 4, 7, e pp. 107-115, 172-175 (Versão Portuguesa).
+
+Gagnon, V.P. (1994), “Nacionalismo Étnico e Conflito Internacional: o Caso da Sérvia”, pp. 140-164 (Versão Portuguesa traduzido (imperfeitamente...) por Google) ou a versão original em Inglês, se preferir.
